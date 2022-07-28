@@ -13,6 +13,13 @@
 
 # Download APK
 
+
 # Contributors
+- Gambhir Sharma
 
 ### Upcomming Features
+
+- Dark theme
+- Setting 
+- Login using Metamask
+- Widgets
